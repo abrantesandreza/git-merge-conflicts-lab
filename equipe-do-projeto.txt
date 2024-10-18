@@ -1,4 +1,5 @@
 Equipe do Projeto
 
 1. Andressa Abrantes: Desenvolvedora Backend, responsável por desenvolver a lógica do sistema.
-2. Arsidney: Estudante de Sistema de Informação.
+2. Leonardo Filho: Estudante de Ciência de computação, Programador em Python.
+3. Arsidney: Estudante de Sistema de Informação.
