@@ -1,5 +1,6 @@
 Equipe do Projeto
 
-1. Andressa Abrantes: Desenvolvedora Backend, responsável por desenvolver a lógica do sistema. 
-
-3. Lucas Emanuel Borges: Analista de dados, responsável por analisar os códigos e os dados do projeto.
+1. Andressa Abrantes: Desenvolvedora Backend, responsável por desenvolver a lógica do sistema.
+2. Leonardo Filho: Estudante de Ciência de computação, Programador em Python.
+3. Isabella Macedo: Analista de Sistemas, responsável por desenvolver soluções para otimizar processos.
+4. Lucas Emanuel Borges: Analista de Dados, responsável por revisar os dados e códigos do projeto.
