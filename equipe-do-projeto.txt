@@ -4,4 +4,5 @@ Equipe do Projeto
 2. Leonardo Filho: Estudante de Ciência de computação, Programador em Python.
 3. Isabella Macedo: Analista de Sistemas, responsável por desenvolver soluções para otimizar processos.
 4. Alexander Augusto: Desenvolvedora front-end, responsável por Desenvolvedora o Menu do site.
-5. Maxmillian Pedro: Cozinheiro em lanchonete, responsável por fazer cheese-burgers e batata frita.
+5. Lucas Emanuel Borges: Analista de Dados, responsável por ver os códigos e Dados.
+6. Maxmillian Pedro: Cozinheiro em lanchonete, responsável por fazer cheese-burgers e batata frita.
