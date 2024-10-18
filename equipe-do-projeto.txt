@@ -1,3 +1,4 @@
 Equipe do Projeto
 
-1. Andressa Abrantes: Desenvolvedora Backend, responsável por desenvolver a lógica do sistema. 
+1. Andressa Abrantes: Desenvolvedora Backend, responsável por desenvolver a lógica do sistema.
+2. Arsidney: Estudante de Sistema de Informação.
