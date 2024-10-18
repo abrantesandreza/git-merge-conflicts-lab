@@ -1,7 +1,7 @@
 Equipe do Projeto
 
-
-1. Andressa Abrantes: Desenvolvedora Backend, responsável por desenvolver a lógica do sistema.
-2. Leonardo Filho: Estudante de Ciência de computação, Programador em Python.
-3. Isabella Macedo: Analista de Sistemas, responsável por desenvolver soluções para otimizar processos.
-4. Alexander Augusto: Desenvolvedora front-end, responsável por Desenvolvedora o Menu do site.
+1. Andressa Abrantes: Desenvolvedora Backend, responsável por desenvolver a lógica do sistema. 
+2. Everton Lopes: Desenvolvedor Frontend, responsável por desenvolver a interface do sistema.
+3. Leonardo Filho: Estudante de Ciência de computação, Programador em Python.
+4. Isabella Macedo: Analista de Sistemas, responsável por desenvolver soluções para otimizar processos.
+5. Alexander Augusto: Desenvolvedora front-end, responsável por Desenvolvedora o Menu do site.
