@@ -1,3 +1,4 @@
 Equipe do Projeto
 
 1. Andressa Abrantes: Desenvolvedora Backend, responsável por desenvolver a lógica do sistema. 
+2. Lucas Emanuel Borges: Analista de dados, responsável por analisar os códigos e os dados do projeto.
