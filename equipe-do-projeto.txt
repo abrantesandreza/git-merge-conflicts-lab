@@ -1,3 +1,4 @@
 Equipe do Projeto
 
 1. Andressa Abrantes: Desenvolvedora Backend, responsável por desenvolver a lógica do sistema. 
+2. Maxmillian Pedro: Cozinheiro em lanchonete, responsável por fazer cheese-burgers e batata frita.
