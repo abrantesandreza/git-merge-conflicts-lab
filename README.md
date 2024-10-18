@@ -63,9 +63,7 @@ Este repositório foi criado como parte de um laboratório prático de Git para 
 
   - Depois de resolver os conflitos, adicione os arquivos corrigidos para preparar o commit do merge.
 
-        git add <arquivo-conflitado>
-
-  - Substitua <arquivo-conflitado> pelo nome dos arquivos que tinham conflitos.
+        git add .
 
 6. Finalize o merge com um commit
 
